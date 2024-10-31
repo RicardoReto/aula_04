@@ -1,0 +1,1 @@
+print("Este é o meu modelo de previsão")
